@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\CgpaCalculator\CgpaCalculator\bin\Debug\netcoreapp3.1\CgpaCalculator.exe
+C:\Users\hp\source\repos\CgpaCalculator\CgpaCalculator\bin\Debug\netcoreapp3.1\CgpaCalculator.deps.json
+C:\Users\hp\source\repos\CgpaCalculator\CgpaCalculator\bin\Debug\netcoreapp3.1\CgpaCalculator.runtimeconfig.json
+C:\Users\hp\source\repos\CgpaCalculator\CgpaCalculator\bin\Debug\netcoreapp3.1\CgpaCalculator.runtimeconfig.dev.json
+C:\Users\hp\source\repos\CgpaCalculator\CgpaCalculator\bin\Debug\netcoreapp3.1\CgpaCalculator.dll
+C:\Users\hp\source\repos\CgpaCalculator\CgpaCalculator\bin\Debug\netcoreapp3.1\CgpaCalculator.pdb
+C:\Users\hp\source\repos\CgpaCalculator\CgpaCalculator\obj\Debug\netcoreapp3.1\CgpaCalculator.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\CgpaCalculator\CgpaCalculator\obj\Debug\netcoreapp3.1\CgpaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\CgpaCalculator\CgpaCalculator\obj\Debug\netcoreapp3.1\CgpaCalculator.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\CgpaCalculator\CgpaCalculator\obj\Debug\netcoreapp3.1\CgpaCalculator.AssemblyInfo.cs
+C:\Users\hp\source\repos\CgpaCalculator\CgpaCalculator\obj\Debug\netcoreapp3.1\CgpaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CgpaCalculator\CgpaCalculator\obj\Debug\netcoreapp3.1\CgpaCalculator.dll
+C:\Users\hp\source\repos\CgpaCalculator\CgpaCalculator\obj\Debug\netcoreapp3.1\CgpaCalculator.pdb
+C:\Users\hp\source\repos\CgpaCalculator\CgpaCalculator\obj\Debug\netcoreapp3.1\CgpaCalculator.genruntimeconfig.cache
